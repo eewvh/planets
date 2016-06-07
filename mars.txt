@@ -1,6 +1,13 @@
+<<<<<<< HEAD
+Cold and dry, but everythongs is my favorite color.
+The two moon can be a problem for wolfman.
+The mummy will appreciate the lack of humidity. 
 A lovely planet if you like frozen deserts.
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the dry air. 
 Now we're working on line.
 J'ai modifié cette ligne (julien)
+<<<<<<< HEAD
+>>>>>>> 5545d13f1eff6c61a281e5a324f1f77ea45e87510
 Making a change on GitHub.
+>>>>>>> aed4be573a37e345458fd0f20cb207bc37c7f5ff
